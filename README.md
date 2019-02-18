@@ -9,6 +9,9 @@ This script sends an email notification detailing any issues with link health.
 Recommended scheduling is to run daily, though it will only email you if there is an issue. 
 Optionally, it will send an email on Mondays, just to reassure you that the script ran successfully and found no errors. 
 
+This script is for manager accounts. Check out [this one](https://github.com/roardigitalmarketing/landing-page-monitor) instead if you have a regular account.
+
+
 ---
 
 ## Options
